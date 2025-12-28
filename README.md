@@ -16,6 +16,7 @@ Full-stack developer since 2019, building web applications and digital products.
 ### Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -51,10 +52,12 @@ Here are some of my recent works:
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
 | 🌍 [**Holmplanet**](https://www.carter.holmplanet.com/) | Parent company offering web development, app creation, and branding services | Next.js, React, TypeScript, Tailwind | 2024-present |
+| 🚀 **HolmStake** | Professional-grade multi-asset trading bot with 4-layer technical analysis, intelligent risk management, ATR-based position sizing, and Redis Cloud persistence. Features dual-bot cron architecture for crypto (24/7) and stock trading with PDT protection and dynamic stop-loss management | TypeScript, Node.js, Redis Cloud, Alpaca API | 2024-present |
+| 📊 **Coastline** | Production-ready ML trading signals system covering 46 assets across 8 sectors (crypto, stocks, ETFs). Features 11 specialized trained models achieving up to 80% win rates with sector-specific optimization for industrials, financials, semiconductors, mega-cap tech, and more | Python, Machine Learning, scikit-learn | 2024-present |
 | 🏌️ **Fairway Goose** | Web app helping golfers track drinks per round and analyze how alcohol affects their game | Next.js, Tailwind, MongoDB, JavaScript | 2024-present |
 | 🎥 **T. Cole Official** | Personal portfolio website for Tyler Cole, professional videographer and sports media specialist | Next.js, Tailwind, TypeScript | 2025-present |
 | 💪 **ChampBucks** | Platform helping athletes and fighters gain financial support and visibility in their careers | Next.js, CSS, MongoDB, JavaScript | 2023-present |
-| ✈️ **Flipsity** | Social media platform for travelers to find things to do nearby (my very first app!) | React Native, Firebase, JavaScript | Sunsetted |
+
 
 </div>
 

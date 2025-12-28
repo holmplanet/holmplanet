@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Carter Holmes! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer+%2B+Enthusiast;Full+Stack+Developer;6+Years+of+Experience;Building+Digital+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer+%2B+Enthusiast;Full+Stack+Developer;Coding+Since+2019;Building+Digital+Products)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Full-stack developer with 6 years of experience building web applications and digital products. Passionate about creating intuitive user experiences and scalable backend solutions. Founder of **Holmplanet** - a parent company offering web development, app creation, and branding services.
+Full-stack developer since 2019, building web applications and digital products. Passionate about creating intuitive user experiences and scalable backend solutions. Founder of **Holmplanet** - a parent company offering web development, app creation, and branding services.
 
 - 🏢 Currently building innovative products at [Holmplanet](https://www.carter.holmplanet.com/)
 - 💻 Specializing in Next.js, React, Vue.js, and TypeScript
@@ -26,9 +26,8 @@ Full-stack developer with 6 years of experience building web applications and di
 <div align="center">
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -50,20 +49,6 @@ Full-stack developer with 6 years of experience building web applications and di
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Carter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carterholmes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carterholmes&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carterholmes&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
 
 </div>
 
@@ -103,38 +88,11 @@ Here are some of my recent works:
 
 ---
 
-## 💭 Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🎨 What I'm Building
-
-<div align="center">
-
-From **web apps** that help golfers improve their game 🏌️  
-To **platforms** supporting athletes in their careers 💪  
-From **portfolio sites** for creative professionals 🎥  
-To **confidential AI and 3D projects** pushing boundaries 🚀
-
-**Always creating. Always learning. Always building something new.**
-
-</div>
-
----
-
 <div align="center">
 
 ### 🌟 Thanks for stopping by! Feel free to explore my repos and don't hesitate to reach out!
 
-![Visitor Count](https://profile-counter.glitch.me/carterholmes/count.svg)
-
-**⭐️ From [carterholmes](https://github.com/carterholmes) with ❤️**
+**⭐️ [Holmplanet](https://www.carter.holmplanet.com/)**
 
 </div>
 

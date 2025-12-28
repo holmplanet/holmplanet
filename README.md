@@ -40,6 +40,8 @@ Full-stack developer since 2019, building web applications and digital solutions
 
 </div>
 
+---
+
 ## 🎯 Featured Projects
 
 Here are some of my recent works:
@@ -55,8 +57,9 @@ Here are some of my recent works:
 | 🎥 **T. Cole Official** | Personal portfolio website for Tyler Cole, professional videographer and sports media specialist | Next.js, Tailwind, TypeScript | 2025-present |
 | 💪 **ChampBucks** | Platform helping athletes and fighters gain financial support and visibility in their careers | Next.js, CSS, MongoDB, JavaScript | 2023-present |
 
-
 </div>
+
+---
 
 ## 🌐 Connect With Me
 
@@ -72,6 +75,8 @@ Here are some of my recent works:
 
 </div>
 
+---
+
 <div align="center">
 
 ### 🌟 Thanks for stopping by! Feel free to explore my repos and don't hesitate to reach out!
@@ -79,4 +84,3 @@ Here are some of my recent works:
 **⭐️ [Holmplanet](https://www.carter.holmplanet.com/)**
 
 </div>
-

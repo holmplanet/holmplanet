@@ -1,11 +1,10 @@
 ## 🚀 About Me
 
-Full-stack developer since 2019, building web applications and digital products. Passionate about creating intuitive user experiences and scalable backend solutions. Founder of **Holmplanet** - a parent company offering web development, app creation, and branding services.
+Full-stack developer since 2019, building web applications and digital solutions. Passionate about creating intuitive user experiences and automating things in my personal life. Founder of **Holmplanet** - a parent company offering web development, app creation, and API services.
 
-- 🏢 Currently building innovative products at [Holmplanet](https://www.carter.holmplanet.com/)
+- 🏢 Currently building innovative products on [Holmplanet](https://www.carter.holmplanet.com/)
 - 💻 Specializing in Next.js, React, Vue.js, and TypeScript
-- 🎯 Working on multiple exciting projects from golf apps to athlete platforms
-- ⚡ Turning complex problems into simple, beautiful, and intuitive solutions
+- ⚡ Focusing on automating everything
 
 ---
 

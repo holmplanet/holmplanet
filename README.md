@@ -63,8 +63,8 @@ Here are some of my recent works:
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://www.carter.holmplanet.com/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carterholmes)
+[![Website](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://www.holmplanet.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carterjholmes)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/carterholmes)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/holmplanet)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@holmplanet)

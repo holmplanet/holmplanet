@@ -1,15 +1,3 @@
-<div align="center">
-  
-# 🌍 Welcome to Holmplanet
-
-### Hi there, I'm Carter Holmes! 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer+%2B+Enthusiast;Full+Stack+Developer;Coding+Since+2019;Building+Digital+Products)](https://git.io/typing-svg)
-
-</div>
-
----
-
 ## 🚀 About Me
 
 Full-stack developer since 2019, building web applications and digital products. Passionate about creating intuitive user experiences and scalable backend solutions. Founder of **Holmplanet** - a parent company offering web development, app creation, and branding services.

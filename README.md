@@ -41,8 +41,6 @@ Full-stack developer since 2019, building web applications and digital products.
 
 </div>
 
----
-
 ## 🎯 Featured Projects
 
 Here are some of my recent works:
@@ -52,16 +50,14 @@ Here are some of my recent works:
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
 | 🌍 [**Holmplanet**](https://www.carter.holmplanet.com/) | Parent company offering web development, app creation, and branding services | Next.js, React, TypeScript, Tailwind | 2024-present |
-| 🚀 **HolmStake** | Professional-grade multi-asset trading bot with 4-layer technical analysis, intelligent risk management, ATR-based position sizing, and Redis Cloud persistence. Features dual-bot cron architecture for crypto (24/7) and stock trading with PDT protection and dynamic stop-loss management | TypeScript, Node.js, Redis Cloud, Alpaca API | 2024-present |
-| 📊 **Coastline** | Production-ready ML trading signals system covering 46 assets across 8 sectors (crypto, stocks, ETFs). Features 11 specialized trained models achieving up to 80% win rates with sector-specific optimization for industrials, financials, semiconductors, mega-cap tech, and more | Python, Machine Learning, scikit-learn | 2024-present |
+| 🚀 **HolmStake** | Professional-grade multi-asset trading bot with 4-layer technical analysis, intelligent risk management, ATR-based position sizing, and Redis Cloud persistence. Features dual-bot cron architecture for crypto (24/7) and stock trading with PDT protection and dynamic stop-loss management | TypeScript, Node.js, Redis Cloud, Alpaca API | 2025-present |
+| 📊 **Coastline** | Production-ready ML trading signals system covering 46 assets across 8 sectors (crypto, stocks, ETFs). Features 11 specialized trained models achieving up to 80% win rates with sector-specific optimization for industrials, financials, semiconductors, mega-cap tech, and more | Python, Machine Learning, scikit-learn | 2025-present |
 | 🏌️ **Fairway Goose** | Web app helping golfers track drinks per round and analyze how alcohol affects their game | Next.js, Tailwind, MongoDB, JavaScript | 2024-present |
 | 🎥 **T. Cole Official** | Personal portfolio website for Tyler Cole, professional videographer and sports media specialist | Next.js, Tailwind, TypeScript | 2025-present |
 | 💪 **ChampBucks** | Platform helping athletes and fighters gain financial support and visibility in their careers | Next.js, CSS, MongoDB, JavaScript | 2023-present |
 
 
 </div>
-
----
 
 ## 🌐 Connect With Me
 
@@ -76,8 +72,6 @@ Here are some of my recent works:
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hey@holmplanet.com)
 
 </div>
-
----
 
 <div align="center">
 

@@ -8,11 +8,11 @@
 
 ## About Me
 
-Full-stack developer since 2019, building web applications and digital solutions. Passionate about creating intuitive user experiences and automating things in my personal life. Founder of **Holmplanet** - a parent company offering web development, app creation, and API services.
+I build software through **Holmplanet**, focused on web development, data connections, and production-ready MCP servers. The goal is simple: build fast, accessible products, connect the systems behind them, and make that infrastructure useful to AI without losing control.
 
-- Currently building things on [Holmplanet](https://www.holmplanet.com/)
-- Specializing in Next.js, React, Vue.js, and TypeScript
-- Focusing on automating everything
+- Building custom web apps and sites through [Holmplanet](https://www.holmplanet.com/)
+- Creating secure data connections across tools, databases, and APIs
+- Shipping MCP servers that expose data and workflows to AI agents with safety, speed, and control
 
 ---
 

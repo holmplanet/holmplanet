@@ -1,8 +1,6 @@
-<div align="center">
-  
-# Welcome, I'm Carter Holmes.
+<div align="left">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer+%2B+Enthusiast;Full+Stack+Developer;Coding+Since+2019;Building+Digital+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=My+Name+is+Carter;I+am+a+Software+Engineer+%2B+Enthusiast;Full+Stack+Developer;Coding+Since+2019;Building+Digital+Products)](https://git.io/typing-svg)
 
 </div>
 

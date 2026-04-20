@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello there, I'm Carter Holmes! 👋
+# Welcome, I'm Carter Holmes.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer+%2B+Enthusiast;Full+Stack+Developer;Coding+Since+2019;Building+Digital+Products)](https://git.io/typing-svg)
 
@@ -8,17 +8,17 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Full-stack developer since 2019, building web applications and digital solutions. Passionate about creating intuitive user experiences and automating things in my personal life. Founder of **Holmplanet** - a parent company offering web development, app creation, and API services.
 
-- 🏢 Currently building innovative products on [Holmplanet](https://www.carter.holmplanet.com/)
-- 💻 Specializing in Next.js, React, Vue.js, and TypeScript
-- ⚡ Focusing on automating everything
+- Currently building things on [Holmplanet](https://www.holmplanet.com/)
+- Specializing in Next.js, React, Vue.js, and TypeScript
+- Focusing on automating everything
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -38,6 +38,7 @@ Full-stack developer since 2019, building web applications and digital solutions
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Database & Backend
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
@@ -52,31 +53,12 @@ Full-stack developer since 2019, building web applications and digital solutions
 
 ---
 
-## 🎯 Featured Projects
-
-Here are some of my recent works:
+## Connect With Me
 
 <div align="center">
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🌍 [**Holmplanet**](https://www.holmplanet.com/) | Parent company offering web development, app creation, and branding services | Next.js, React, TypeScript, Tailwind | 2024-present |
-| 🚀 **HolmStake** | Professional-grade multi-asset trading bot with 4-layer technical analysis, intelligent risk management, ATR-based position sizing, and Redis Cloud persistence. Features dual-bot cron architecture for crypto (24/7) and stock trading with PDT protection and dynamic stop-loss management | TypeScript, Node.js, Redis Cloud, Alpaca API | 2025-present |
-| 📊 **Coastline** | Production-ready ML trading signals system covering 46 assets across 8 sectors (crypto, stocks, ETFs). Features 11 specialized trained models achieving up to 80% win rates with sector-specific optimization for industrials, financials, semiconductors, mega-cap tech, and more | Python, Machine Learning, scikit-learn | 2025-present |
-| 🏌️ **Fairway Goose** | Web app helping golfers track drinks per round and analyze how alcohol affects their game | Next.js, Tailwind, MongoDB, JavaScript | 2024-present |
-| 🎥 **T. Cole Official** | Personal portfolio website for Tyler Cole, professional videographer and sports media specialist | Next.js, Tailwind, TypeScript | 2025-present |
-| 💪 **ChampBucks** | Platform helping athletes and fighters gain financial support and visibility in their careers | Next.js, CSS, MongoDB, JavaScript | 2023-present |
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://www.carter.holmplanet.com/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carterjholmes)
+[![Website](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge)](https://www.carter.holmplanet.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carterjholmes)
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/carterholmes)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/holmplanet)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@holmplanet)
@@ -89,8 +71,8 @@ Here are some of my recent works:
 
 <div align="center">
 
-### 🌟 Thanks for stopping by! Feel free to explore my repos and don't hesitate to reach out!
+### Thanks for stopping by! Feel free to explore my repos and don't hesitate to reach out!
 
-**⭐️ [Holmplanet](https://www.carter.holmplanet.com/)**
+**[Holmplanet](https://www.holmplanet.com/)**
 
 </div>

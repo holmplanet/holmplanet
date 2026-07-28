@@ -1,76 +1,101 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=My+Name+is+Carter;I+am+a+Software+Engineer+%2B+Enthusiast;Full+Stack+Developer;Coding+Since+2019;Building+Digital+Products)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header&text=Carter%20Holmes&fontSize=42&fontColor=e8e8e8&animation=fadeIn" width="100%" />
+
+**Building agent infrastructure at [Holmplanet](https://www.holmplanet.com)**
+
+[![Portfolio](https://img.shields.io/badge/portfolio-carter.holmplanet.com-e85d04?style=flat-square)](https://carter.holmplanet.com)
+[![Articles](https://img.shields.io/badge/articles-holmplanet.com-1a1a2e?style=flat-square)](https://articles.holmplanet.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/carterjholmes)
+[![X](https://img.shields.io/badge/@carterholmes-1a1a2e?style=flat-square&logo=x)](https://twitter.com/carterholmes)
+[![Email](https://img.shields.io/badge/hey@holmplanet.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hey@holmplanet.com)
 
 </div>
 
----
+<br/>
 
-## About Me
+I build software through **Holmplanet** — agent platforms, MCP servers, secure data connections, and production web apps.
 
-I build software through **Holmplanet**, focused on web development, data connections, and production-ready MCP servers. The goal is simple: build fast, accessible products, connect the systems behind them, and make that infrastructure useful to AI without losing control.
+The through-line: make infrastructure useful to AI **without** losing control.
 
-- Building custom web apps and sites through [Holmplanet](https://www.holmplanet.com/)
-- Creating secure data connections across tools, databases, and APIs
-- Shipping MCP servers that expose data and workflows to AI agents with safety, speed, and control
+<br/>
 
----
+## Currently building
 
-## Tech Stack
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Hive
+Product plane for agents, rooms, automations, and remote coding — built over a clean Omnigent substrate.
+
+`TypeScript` · `React` · `Node` · `Docker` · `MCP`
+
+</td>
+<td width="50%" valign="top">
+
+### kalshi-cli
+Agent-friendly CLI for the Kalshi prediction market API — stable JSON, exit codes, demo/prod switching.
+
+`Python` · `httpx` · `pytest` · `Rich`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Sous
+Structured research engine that turns APIs, RSS, and web sources into auditable datasets for agents.
+
+`Node` · `Firecrawl` · `MCP` · `Vite`
+
+</td>
+<td width="50%" valign="top">
+
+### Holmplanet
+Multi-subdomain Next.js site — articles, projects, portfolio, and client-facing product pages.
+
+`Next.js` · `Tailwind` · `Supabase`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## What I work on
+
+```
+  web UI  →  API / BFF  →  agent substrate  →  real systems
+  MCP     →  tool access  →  data & workflows with guardrails
+```
+
+- **Agent platforms** — sessions, host runners, automations, policy-aware execution
+- **MCP servers** — expose data and workflows to AI with safety, speed, and auditability
+- **Full-stack products** — typed APIs, accessible UIs, deployed on real infra
+- **Data & automation** — pipelines, integrations, Databricks apps
+
+<br/>
+
+## Stack
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,py,react,nextjs,nodejs,docker,postgres,supabase,tailwind,git,aws,vercel,linux&perline=7&theme=dark" alt="Tech stack" />
+</p>
+
+<br/>
 
 <div align="center">
 
-### Languages
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=holmplanet&show_icons=true&theme=tokyonight&hide_border=true&title_color=e85d04&icon_color=e85d04&text_color=c9d1d9&bg_color=00000000" height="165" />
+<img src="https://streak-stats.demolab.com/?user=holmplanet&theme=tokyonight&hide_border=true&ring=e85d04&fire=e85d04&currStreakLabel=e85d04&dates=c9d1d9&background=00000000" height="165" />
 
-### Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<br/><br/>
 
-### Database & Backend
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<sub>Most repos are private · always happy to talk shop</sub>
 
-### Tools & Platforms
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+<br/>
 
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge)](https://www.carter.holmplanet.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carterjholmes)
-[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/carterholmes)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/holmplanet)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@holmplanet)
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@holmplanet)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hey@holmplanet.com)
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for stopping by! Feel free to explore my repos and don't hesitate to reach out!
-
-**[Holmplanet](https://www.holmplanet.com/)**
+**[holmplanet.com](https://www.holmplanet.com)** · **[carter.holmplanet.com](https://carter.holmplanet.com)**
 
 </div>

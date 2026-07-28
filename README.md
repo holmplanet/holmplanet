@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header&text=Carter%20Holmes&fontSize=42&fontColor=e8e8e8&animation=fadeIn" width="100%" />
-
 **Building agent infrastructure at [Holmplanet](https://www.holmplanet.com)**
 
 [![Portfolio](https://img.shields.io/badge/portfolio-carter.holmplanet.com-e85d04?style=flat-square)](https://carter.holmplanet.com)
 [![Articles](https://img.shields.io/badge/articles-holmplanet.com-1a1a2e?style=flat-square)](https://articles.holmplanet.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/carterjholmes)
 [![X](https://img.shields.io/badge/@carterholmes-1a1a2e?style=flat-square&logo=x)](https://twitter.com/carterholmes)
-[![Email](https://img.shields.io/badge/hey@holmplanet.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hey@holmplanet.com)
+[![Email](https://img.shields.io/badge/carter@holmplanet.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:carter@holmplanet.com)
 
 </div>
 
@@ -87,8 +85,8 @@ Multi-subdomain Next.js site — articles, projects, portfolio, and client-facin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=holmplanet&show_icons=true&theme=tokyonight&hide_border=true&title_color=e85d04&icon_color=e85d04&text_color=c9d1d9&bg_color=00000000" height="165" />
-<img src="https://streak-stats.demolab.com/?user=holmplanet&theme=tokyonight&hide_border=true&ring=e85d04&fire=e85d04&currStreakLabel=e85d04&dates=c9d1d9&background=00000000" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=holmplanet&theme=github_dark" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=holmplanet&theme=github_dark" height="180" />
 
 <br/><br/>
 

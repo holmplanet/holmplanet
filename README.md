@@ -9,7 +9,7 @@ The through-line: make infrastructure useful to AI **without** losing control.
 [![Portfolio](https://img.shields.io/badge/portfolio-carter.holmplanet.com-e85d04?style=flat-square)](https://carter.holmplanet.com)
 [![Articles](https://img.shields.io/badge/articles-holmplanet.com-1a1a2e?style=flat-square)](https://articles.holmplanet.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/carterjholmes)
-[![X](https://img.shields.io/badge/@carterjholmes-1a1a2e?style=flat-square&logo=x)](https://twitter.com/carterholmes)
+[![X](https://img.shields.io/badge/@carterjholmes-1a1a2e?style=flat-square&logo=x)](https://twitter.com/carterjholmes)
 [![Email](https://img.shields.io/badge/carter@holmplanet.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:carter@holmplanet.com)
 
 </div>

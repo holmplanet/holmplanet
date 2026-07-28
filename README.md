@@ -1,6 +1,10 @@
-<div align="center">
+I build software through **[Holmplanet](https://www.holmplanet.com)** — agent platforms, MCP servers, secure data connections, and production web apps.
 
-**Building agent infrastructure at [Holmplanet](https://www.holmplanet.com)**
+The through-line: make infrastructure useful to AI **without** losing control.
+
+<br/>
+
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/portfolio-carter.holmplanet.com-e85d04?style=flat-square)](https://carter.holmplanet.com)
 [![Articles](https://img.shields.io/badge/articles-holmplanet.com-1a1a2e?style=flat-square)](https://articles.holmplanet.com)
@@ -9,12 +13,6 @@
 [![Email](https://img.shields.io/badge/carter@holmplanet.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:carter@holmplanet.com)
 
 </div>
-
-<br/>
-
-I build software through **Holmplanet** — agent platforms, MCP servers, secure data connections, and production web apps.
-
-The through-line: make infrastructure useful to AI **without** losing control.
 
 <br/>
 

@@ -83,10 +83,6 @@ Multi-subdomain Next.js site — articles, projects, portfolio, and client-facin
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=holmplanet&theme=github_dark" height="180" />
-
-<br/><br/>
-
 <sub>Most repos are private · always happy to talk shop</sub>
 
 <br/>

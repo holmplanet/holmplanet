@@ -16,49 +16,6 @@ The through-line: make infrastructure useful to AI **without** losing control.
 
 <br/>
 
-## Currently building
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Hive
-Product plane for agents, rooms, automations, and remote coding — built over a clean Omnigent substrate.
-
-`TypeScript` · `React` · `Node` · `Docker` · `MCP`
-
-</td>
-<td width="50%" valign="top">
-
-### kalshi-cli
-Agent-friendly CLI for the Kalshi prediction market API — stable JSON, exit codes, demo/prod switching.
-
-`Python` · `httpx` · `pytest` · `Rich`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Sous
-Structured research engine that turns APIs, RSS, and web sources into auditable datasets for agents.
-
-`Node` · `Firecrawl` · `MCP` · `Vite`
-
-</td>
-<td width="50%" valign="top">
-
-### Holmplanet
-Multi-subdomain Next.js site — articles, projects, portfolio, and client-facing product pages.
-
-`Next.js` · `Tailwind` · `Supabase`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## What I work on
 
 ```
